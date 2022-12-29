@@ -1,3 +1,10 @@
+# 3. Pattern
+
+#idu za sebou printy pome xD
+print('🌻 Morning Dharma!')
+print('🙋🏽 Evening Sonny!')
+
+#output:
 #        1
 #      2 3
 #    4 5 6

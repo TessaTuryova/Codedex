@@ -1,2 +1,1 @@
-print("Hi") #dis a comment, use # to comment stuff
-print('👋 Howdy')
+#this code is just for funky testing rn
