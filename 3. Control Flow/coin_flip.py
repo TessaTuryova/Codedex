@@ -8,3 +8,5 @@ if num > 0.5:
     print('Heads')
 else:
     print('Tails')
+
+# it went heads 3 times from 5 tries
