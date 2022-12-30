@@ -20,7 +20,8 @@ elif grade > 60:
 else:
   print('F')
 
-pH = 7
+#pH = 7
+pH = int(input('Enter a pH level (0-14): '))
 
 if pH > 7:
     print("Basic")
