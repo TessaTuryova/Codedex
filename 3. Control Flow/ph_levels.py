@@ -10,15 +10,15 @@
 grade = 0
 
 if grade > 90:
-  print('A')
+    print('A')
 elif grade > 80:
-  print('B')
+    print('B')
 elif grade > 70:
-  print('C')
+    print('C')
 elif grade > 60:
-  print('D')
+    print('D')
 else:
-  print('F')
+    print('F')
 
 #pH = 7
 pH = int(input('Enter a pH level (0-14): '))
