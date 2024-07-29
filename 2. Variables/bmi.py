@@ -13,5 +13,3 @@ height = 1.68
 mass = 68
 bmi = mass / (height ** 2)
 print(bmi)
-
-# eyy I'm normal bmi, big slay

@@ -1,7 +1,7 @@
 # 12. Grades
 
-#if condition:
-    # code inside
+# if condition:
+#   code inside
 
 grade = 56
 

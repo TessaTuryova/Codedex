@@ -26,7 +26,7 @@ total = pizza + coke
 
 tip = total * 0.2
 
-print(tip) # Output: 0.796
+print(tip)  # Output: 0.796
 
 # operators - example 3
 tip = (pizza + coke) * 0.2

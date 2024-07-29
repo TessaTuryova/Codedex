@@ -2,7 +2,7 @@
 
 import random
 
-num = random.randint(0, 8)  # generates rundom num from 0 to 8
+num = random.randint(0, 8)  # generates random num from 0 to 8
 print(num)
 
 question = input('Question: ')

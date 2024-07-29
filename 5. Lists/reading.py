@@ -10,9 +10,9 @@ books = [
 
 print(books)
 
-books.append("Zero to Sold") # adds string to last index of an array
-books.remove("Zero to One") # removes specified item
-#books.remove("e") ValueError: list.remove(x): x not in list
-books.pop(0) # removes first item
+books.append("Zero to Sold")  # adds string to last index of an array
+books.remove("Zero to One")  # removes specified item
+# books.remove("e") ValueError: list.remove(x): x not in list
+books.pop(0)  # removes first item
 
 print(books)

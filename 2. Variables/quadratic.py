@@ -5,7 +5,7 @@ username = input("Enter your name: ")
 print(username)
 
 # input for int
-age = int(input("Enter your age: ")) # only integer is accepted, else error is displayed
+age = int(input("Enter your age: "))  # only integer is accepted, else error is displayed
 print(age)
 
 # task

@@ -6,7 +6,7 @@ guess = 0
 
 while guess != 6 and tries < 5:
     guess = int(input('Guess the number: '))
-    tries = tries + 1 #tries += 1 doesn't work hmm
+    tries = tries + 1  # tries += 1 doesn't work hmm
 
 if guess != 6:
     print('You ran out of tries.')
@@ -28,4 +28,3 @@ if coffee > 0 or bubble_tea > 0:
 if not tired:
     print("Let's code!")
 """
-

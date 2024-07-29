@@ -8,4 +8,4 @@ while pin != 1234:
     pin = int(input("Incorrect PIN. Try again: "))
 
     if pin == 1234:
-        print("PIN accepred.")
+        print("PIN accepted.")
